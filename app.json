@@ -1,7 +1,7 @@
 {
-    "name": "< Alpha-X Whatsapp User Bot >", 
-    "description": "🚀 Alpha-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
-    "logo": "https://telegra.ph/file/c265e654e3ec87c78d984.jpg",
+    "name": "< ᎷᏒ.Ꮥ🄰ᏉᎥ₂₀₂₁-X Whatsapp User Bot >", 
+    "description": "🚀 ᎷᏒ.Ꮥ🄰ᏉᎥ₂₀₂₁-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
+    "logo": "https://telegra.ph/file/a61c7655655b290d415ce.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
     "repository": "https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot",
     "website": "https://alpha-x.ml/wa-bot",
@@ -29,12 +29,12 @@
         "LANGUAGE": {
             "description": "Bot language - English => EN , Sinhala=> SI , Kannada => KN , Turkish => TR , Malayalam => ML , Russian => RU , Azerbaijian => AZ , Hindi => HI [ More Languages coming soon.. ]",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "CAPTION": {
             "description": "Customizable CAPTION Message! Type a caption for bot medias.",
             "required": false,
-            "value": "༺🚀 Mᴀᴅᴇ Bʏ Ａｌｐｈａ-Ｘ ❄️࿐"
+            "value": "༺🚀 Mᴀᴅᴇ Bʏ ᎷᏒ.Ꮥ🄰ᏉᎥ₂₀₂₁-Ｘ ❄️࿐"
         },
         "EXTRA_MENU_TITLE": {
             "description": "Customizable EXTRA MENU TITLE! Type a titile for show under the commands list menu.",
@@ -144,7 +144,7 @@
         "ANTI_BADWORD": {
             "description": "🚫️️ BAD WORDS Blocking System. If anyone send badword to group he was banded from group! ",
             "required": true,
-            "value": "false"
+            "value": "true"
        },
        "ANTI_BADWORD_KICK_MSG": {
             "description": "Customizable BAD WORDS Blocking System kick msg.",
@@ -154,12 +154,12 @@
         "BLOCK_LINK": {
             "description": "⚠️️ Link Blocking System. If anyone send link with ( **YOU GIVEN TO **BLOCK_LINK_A** & **BLOCK_LINK_B** ) to group he was banded from group! ",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "AUTO_BIO": {
             "description": "Set true for auto date to your bio, time in biography.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "BLOCK_LINK_A": {
             "description": "⚠️️ Type a link1 you want to remove if anyone send it.",
